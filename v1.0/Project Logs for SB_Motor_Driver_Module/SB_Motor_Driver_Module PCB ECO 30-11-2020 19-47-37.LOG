@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=Q2-2
+Change Component Footprint: Designator=Q2 Old Footprint=VISH-TO-220AB-3_A New Footprint=ONSC-DPAK-3-369AA-01_V
+Change Component Comment : Designator=Q2 Old Comment=IRF540 New Comment=NTD4805NT4G
+Change Managed Component Library Link : Designator=Q2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=03FB62B9-4784-45D4-92EA-E9BBA6928E40 New ItemGUID=58FEF2E8-370E-452A-B956-B8EC075DEBF4 Old RevisionGUID=3F95CFB0-9EE7-494B-84E1-4B6D55577E1E New RevisionGUID=8D45A870-0A4C-43AB-9151-F736C4261DED
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "VISH-TO-220AB-3_A"; UniqueID = "\ELWFJUAM" ("\ELWFJUAM")
+Change component parameters (AddParameter): Name = "Channel Polarity"; Value = "N Channel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ciss Typ (pF)"; Value = "2865"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/NTD4805N-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/369AA.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Coss Typ (pF)"; Value = "610"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Crss Typ (pF)"; Value = "338"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ID Max (A)"; Value = "88"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "DPAK-3, IPAK-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin Flange Mount, Body 6.54 x 6.095 mm, Pitch 2.29 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DPAK-3-369AA-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Rev. B, 06/2010"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packing"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "NTD4805NT4G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Qrr Typ (nC)"; Value = "18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "V(BR)DSS Min (V)"; Value = "30"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VGS Max (V)"; Value = "20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VGS(th) Max (V)"; Value = "2.5"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=Q2-4

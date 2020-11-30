@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=TEMP_B Pin=P4-8
+Removed Pin From Net: NetName=FAN Pin=P4-9
+Removed Pin From Net: NetName=GND Pin=P4-10
+Added Pin To Net: NetName=GND Pin=P4-1
+Added Pin To Net: NetName=FAN Pin=P4-8
+Added Pin To Net: NetName=TEMP_B Pin=P4-9

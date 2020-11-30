@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=+24V Pin=E1-A1
+Removed Pin From Net: NetName=MGND Pin=E1-A2
+Added Pin To Net: NetName=MGND Pin=E1-A1
+Added Pin To Net: NetName=+24V Pin=E1-A2
