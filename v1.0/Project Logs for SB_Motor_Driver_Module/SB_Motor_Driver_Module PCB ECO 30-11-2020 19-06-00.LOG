@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=MGND Pin=E1-A2
+Added Member To Class: ClassName=SB_Motor_Driver_Module Member=Component D5 LED - Orange
+Added Member To Class: ClassName=SB_Motor_Driver_Module Member=Component E1 1760490000
+Added Member To Class: ClassName=SB_Motor_Driver_Module Member=Component E2 1760490000
+Added Member To Class: ClassName=SB_Motor_Driver_Module Member=Component P1 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=SB_Motor_Driver_Module Member=Component P2 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=SB_Motor_Driver_Module Member=Component P3 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=SB_Motor_Driver_Module Member=Component R7 68R
