@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [SB_Motor_Driver_Module.PcbDoc]
+   Generated File[SB_Motor_Driver_Module.GTO]
+   Generated File[SB_Motor_Driver_Module.GTP]
+   Generated File[SB_Motor_Driver_Module.GTS]
+   Generated File[SB_Motor_Driver_Module.GTL]
+   Generated File[SB_Motor_Driver_Module.GBL]
+   Generated File[SB_Motor_Driver_Module.GBS]
+   Generated File[SB_Motor_Driver_Module.GBP]
+   Generated File[SB_Motor_Driver_Module.GBO]
+   Generated File[SB_Motor_Driver_Module.GKO]
+   Generated File[SB_Motor_Driver_Module.RUL]
+   Generated File[SB_Motor_Driver_Module.EXTREP]
+   Generated File[SB_Motor_Driver_Module.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 11:22:03 On 07-12-2020
